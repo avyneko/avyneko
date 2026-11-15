@@ -9,12 +9,13 @@
 <a href="http://bsky.app/profile/did:plc:fqvzbqsjzjkl4o66rfp6cgk3"><img alt="Bluesky" src="https://img.shields.io/badge/bsky-avery.is--a.dev-gray?labelColor=lightblue"></a>
 </div>
 
-I am ***avyneko***, but you can call me *Avery* ^^\
+I am **avyneko**, but you can call me **Avery** ^^\
 I do coding then wonder why something that isn't supposed to break breaks
 
-mainly doing web development stuff (HTML/CSS) though occasionally may also write some JavaScript\
-you might know me from **[@Axeon-Network](https://github.com/Axeon-Network)** and from other side projects I've worked on
+You might know me from **[@Axeon-Network](https://github.com/Axeon-Network)** and from other side projects I work on such as [AstroNT Workstation](https://youtube.com/@AstroNTWorkstation).
 
-if you wanna reach out or just wanna know more about me, feel free to check out my website and/or other socials listed above!
+I currently mainly do webdev (HTML/CSS) and some occasional JavaScript but I'm interested in learning some more programming languages someday... when the planets align :p
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AveryEclipse&layout=donut&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+That being said, if you wanna talk or know more about me, feel free to check out my website and/or other socials listed above! :3
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=avyneko&layout=donut&theme=dark)](https://github.com/stats-organization/github-stats-extended)
